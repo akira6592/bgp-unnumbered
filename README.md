@@ -2,7 +2,7 @@
 
 ## 概要
 
-「[BGP Unnumbered で遊んでみた](https://www.slideshare.net/akira6592/bgp-233482295/akira6592/bgp-233482295)」のでもで利用した環境の Vagrantfile です。
+「[BGP Unnumbered で遊んでみた](https://www.slideshare.net/akira6592/bgp-233482295/akira6592/bgp-233482295)」のデモで利用した環境の Vagrantfile です。
 
 
 
